@@ -11,3 +11,9 @@ To review:
 Datasets:
 * https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
 * https://github.com/smartbugs/smartbugs-curated
+
+
+EVM code decompiler:
+* https://www.pnfsoftware.com/blog/ethereum-smart-contract-decompiler/
+* https://github.com/msuiche/porosity
+* https://dl.acm.org/doi/pdf/10.1145/3527321
